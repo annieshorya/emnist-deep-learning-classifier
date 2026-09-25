@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# data and trained weights (download / regenerate instead)
+*.pkl
+*.pth
+emnist_tuning/
+
+# course PDFs contain student IDs; kept locally, summarised in the README
+docs/*.pdf
